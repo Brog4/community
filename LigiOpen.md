@@ -65,7 +65,7 @@ Integrating with the Open Collective platform can enhance the open financing mod
 
 By integrating with the Open Collective platform, a football league can streamline its open financing efforts, enhance transparency and accountability, and foster deeper engagement and collaboration among stakeholders.
 
-Website translation 
+# Website translation 
 
 A website page showcasing open financing for a football league would aim to convey transparency, engagement, and opportunities for involvement. Here's how it might look:
 
